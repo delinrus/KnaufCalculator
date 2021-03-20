@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.ben-manes.caffeine:caffeine:2.5.5" type="repository">
+    <properties maven-id="com.github.ben-manes.caffeine:caffeine:2.5.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ben-manes/caffeine/caffeine/2.5.5/caffeine-2.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
