@@ -17,4 +17,6 @@ public class KnaufC11C61Calculator_original extends KnaufC11C61Calculator_abstra
                 return getMaterialTypeCode(rowModelTos, pnGroup);
         }
     }
+
+    // Added some code to master
 }
