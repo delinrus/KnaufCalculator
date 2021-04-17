@@ -46,4 +46,6 @@ public class KnaufC11C61CalculatorTest {
         testHelper(new KnaufC11C61Calculator_refactored());
     }
 
+    // Added some code to feature 1
+
 }
