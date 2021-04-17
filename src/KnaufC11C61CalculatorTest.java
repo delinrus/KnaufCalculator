@@ -47,5 +47,6 @@ public class KnaufC11C61CalculatorTest {
     }
 
     // Added some code to feature 1
+    // Added additional to feature
 
 }
